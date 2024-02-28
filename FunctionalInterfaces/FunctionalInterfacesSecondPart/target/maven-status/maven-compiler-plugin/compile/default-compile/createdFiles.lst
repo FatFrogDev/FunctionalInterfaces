@@ -1,0 +1,15 @@
+org\globant\secondexercise\exceptions\WritingReportFailException.class
+org\globant\bonustrack\Product.class
+org\globant\firstexercise\FirstExercise.class
+org\globant\secondexercise\Main.class
+org\globant\firstexercise\Main.class
+org\globant\secondexercise\Product.class
+org\globant\secondexercise\ReportExporter.class
+org\globant\secondexercise\Person.class
+org\globant\firstexercise\Person.class
+org\globant\secondexercise\Streams.class
+org\globant\bonustrack\Color.class
+org\globant\secondexercise\interfaces\IReportGenerator.class
+org\globant\secondexercise\Color.class
+org\globant\bonustrack\Person.class
+org\globant\bonustrack\Main.class
